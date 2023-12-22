@@ -1,0 +1,28 @@
+{
+glyphname = Oslash;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(686,715,l),
+(626,715,l),
+(141,-9,l),
+(205,-9,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 860;
+}
+);
+metricLeft = "=O";
+metricRight = "=O";
+unicode = 216;
+}

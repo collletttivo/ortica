@@ -1,0 +1,27 @@
+{
+glyphname = notequal;
+kernLeft = math;
+kernRight = math;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(456,530,l),
+(402,560,l),
+(154,111,l),
+(207,81,l)
+);
+},
+{
+ref = equal;
+}
+);
+width = 605;
+}
+);
+unicode = 8800;
+}

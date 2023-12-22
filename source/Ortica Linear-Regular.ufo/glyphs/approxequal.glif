@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <advance width="462.375"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde" xyScale="-0.0131" yxScale="0.0131" xOffset="-3" yOffset="-75" identifier="B6B3CC4D"/>
+    <component base="asciitilde" xyScale="-0.0131" yxScale="0.0131" xOffset="-5" yOffset="67" identifier="C868D2BD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B6B3CC4D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C868D2BD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

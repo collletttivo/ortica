@@ -1,0 +1,26 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,590,l),
+(693,590,l),
+(693,625,l),
+(254,625,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 708;
+}
+);
+metricLeft = d;
+metricRight = d;
+unicode = 273;
+}

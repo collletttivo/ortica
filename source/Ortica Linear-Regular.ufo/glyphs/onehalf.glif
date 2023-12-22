@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="842.375"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="one.numr" identifier="D17DA6EF"/>
+    <contour>
+      <point x="182" y="0" type="line"/>
+      <point x="687" y="702" type="line"/>
+      <point x="636" y="702" type="line"/>
+      <point x="130" y="0" type="line"/>
+    </contour>
+    <component base="two.dnom" xOffset="447" identifier="1BB1DBAA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>onesuperior</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1BB1DBAA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D17DA6EF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

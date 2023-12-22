@@ -1,0 +1,20 @@
+{
+glyphname = cacute;
+kernLeft = o;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (152,0);
+ref = acutecomb;
+}
+);
+width = 583;
+}
+);
+unicode = 263;
+}

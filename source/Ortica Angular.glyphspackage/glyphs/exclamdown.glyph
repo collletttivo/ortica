@@ -1,0 +1,20 @@
+{
+glyphname = exclamdown;
+kernRight = colon;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (30,506);
+ref = exclam;
+scale = (1,-1);
+}
+);
+width = 325;
+}
+);
+metricLeft = "=|exclam";
+metricRight = "=|exclam";
+unicode = 161;
+}

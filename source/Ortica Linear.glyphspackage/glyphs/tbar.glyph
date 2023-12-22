@@ -1,0 +1,83 @@
+{
+glyphname = tbar;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,339,l),
+(330,339,l),
+(330,360,l),
+(30,360,l)
+);
+},
+{
+ref = t;
+}
+);
+width = 381;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(365,376,l),
+(365,338,l),
+(16,338,l),
+(16,376,l)
+);
+},
+{
+ref = t;
+}
+);
+width = 394;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(29,332,l),
+(393,332,l),
+(393,365,l),
+(29,365,l)
+);
+},
+{
+ref = t;
+}
+);
+width = 422;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,336,l),
+(354,336,l),
+(354,362,l),
+(30,362,l)
+);
+},
+{
+alignment = -1;
+ref = t;
+}
+);
+width = 396.375;
+}
+);
+unicode = 359;
+}

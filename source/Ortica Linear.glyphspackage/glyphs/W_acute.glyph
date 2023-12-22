@@ -1,0 +1,64 @@
+{
+glyphname = Wacute;
+kernLeft = W;
+kernRight = W;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (390,200);
+ref = acutecomb;
+}
+);
+width = 947;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (225,200);
+ref = acutecomb;
+}
+);
+width = 906;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (405,200);
+ref = acutecomb;
+}
+);
+width = 1072;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (403,200);
+ref = acutecomb;
+}
+);
+width = 994;
+}
+);
+unicode = 7810;
+}

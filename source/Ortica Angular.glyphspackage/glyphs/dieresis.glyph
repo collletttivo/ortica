@@ -1,0 +1,16 @@
+{
+glyphname = dieresis;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (0,26);
+ref = dieresiscomb;
+}
+);
+width = 465;
+}
+);
+unicode = 168;
+}

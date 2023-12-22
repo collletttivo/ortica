@@ -1,0 +1,54 @@
+{
+glyphname = guilsinglleft;
+kernLeft = guilsinglleft;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,346,l),
+(313,490,l),
+(289,508,l),
+(162,376,l),
+(0,264,l),
+(0,237,l),
+(162,125,l),
+(289,-8,l),
+(313,12,l),
+(212,162,l),
+(145,254,l)
+);
+}
+);
+width = 373;
+},
+{
+associatedMasterId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+layerId = "CD16F4FA-F5F5-4372-AD01-EC29C583C7BC";
+name = "Sep 7 21, 18:35";
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,266,l),
+(272,370,l),
+(320,488,l),
+(298,502,l),
+(163,354,l),
+(30,278,l),
+(30,232,l),
+(163,156,l),
+(293,-4,l),
+(316,9,l),
+(272,141,l),
+(134,252,l)
+);
+}
+);
+width = 339;
+}
+);
+unicode = 8249;
+}

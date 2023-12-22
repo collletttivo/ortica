@@ -1,0 +1,17 @@
+{
+glyphname = southEastArrow;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+angle = -45;
+pos = (-215,371);
+ref = rightArrow;
+}
+);
+width = 596;
+}
+);
+unicode = 8600;
+}

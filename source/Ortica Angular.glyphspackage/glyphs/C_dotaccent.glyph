@@ -1,0 +1,19 @@
+{
+glyphname = Cdotaccent;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (298,200);
+ref = dotaccentcomb;
+}
+);
+width = 749;
+}
+);
+unicode = 266;
+}

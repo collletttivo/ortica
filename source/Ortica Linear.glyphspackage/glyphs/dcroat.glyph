@@ -1,0 +1,95 @@
+{
+glyphname = dcroat;
+layers = (
+{
+guides = (
+{
+angle = 270;
+pos = (602,14);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,618,l),
+(185,597,l),
+(602,597,l),
+(602,618,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 605;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(643,626,l),
+(643,574,l),
+(233,574,l),
+(233,626,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 624;
+},
+{
+guides = (
+{
+angle = 270;
+pos = (689,27);
+}
+);
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,625,l),
+(250,590,l),
+(689,590,l),
+(689,625,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 695;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,621,l),
+(194,594,l),
+(635,594,l),
+(635,621,l)
+);
+},
+{
+alignment = -1;
+ref = d;
+}
+);
+width = 638.75;
+}
+);
+metricLeft = o;
+metricRight = d;
+unicode = 273;
+}

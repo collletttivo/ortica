@@ -1,0 +1,21 @@
+{
+glyphname = ograve;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (115,-5);
+ref = gravecomb;
+}
+);
+width = 636;
+}
+);
+unicode = 242;
+}

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="594"/>
+  <unicode hex="0065"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="405" y="0" name="ogonek"/>
+  <anchor x="297" y="505" name="top"/>
+  <outline>
+    <contour>
+      <point x="187" y="293" type="line"/>
+      <point x="555" y="293" type="line"/>
+      <point x="517" y="430" type="line"/>
+      <point x="368" y="517" type="line"/>
+      <point x="154" y="480" type="line"/>
+      <point x="44" y="308" type="line"/>
+      <point x="86" y="94" type="line"/>
+      <point x="250" y="-13" type="line"/>
+      <point x="451" y="5" type="line"/>
+      <point x="554" y="149" type="line"/>
+      <point x="538" y="164" type="line"/>
+      <point x="386" y="63" type="line"/>
+      <point x="257" y="104" type="line"/>
+      <point x="183" y="260" type="line"/>
+      <point x="208" y="432" type="line"/>
+      <point x="281" y="475" type="line"/>
+      <point x="368" y="455" type="line"/>
+      <point x="421" y="378" type="line"/>
+      <point x="424" y="327" type="line"/>
+      <point x="187" y="328" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=o-5</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=o-5</string>
+    </dict>
+  </lib>
+</glyph>

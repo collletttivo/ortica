@@ -1,0 +1,24 @@
+{
+glyphname = colon;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (0,1);
+ref = period;
+},
+{
+pos = (0,386);
+ref = period;
+}
+);
+width = 287;
+}
+);
+metricLeft = period;
+metricRight = "=|";
+unicode = 58;
+}

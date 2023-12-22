@@ -1,0 +1,75 @@
+{
+export = 0;
+glyphname = three.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-332);
+ref = threesuperior;
+}
+);
+width = 323;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,696,l),
+(154,715,l),
+(236,702,l),
+(269,650,l),
+(250,594,l),
+(186,566,l),
+(257,548,l),
+(282,487,l),
+(234,415,l),
+(144,394,l),
+(64,424,l),
+(60,495,l),
+(78,499,l),
+(117,432,l),
+(177,436,l),
+(209,471,l),
+(186,530,l),
+(139,553,l),
+(108,553,l),
+(108,577,l),
+(151,578,l),
+(196,621,l),
+(187,672,l),
+(118,685,l),
+(74,600,l),
+(57,604,l)
+);
+}
+);
+width = 321;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+pos = (0,-330);
+ref = threesuperior;
+}
+);
+width = 354;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+pos = (0,-331);
+ref = threesuperior;
+}
+);
+width = 335;
+}
+);
+}

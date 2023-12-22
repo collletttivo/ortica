@@ -1,0 +1,64 @@
+{
+glyphname = Eacute;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (220,213);
+ref = acutecomb;
+}
+);
+width = 658;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (92,200);
+ref = acutecomb;
+}
+);
+width = 617;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (220,200);
+ref = acutecomb;
+}
+);
+width = 742;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (227,208);
+ref = acutecomb;
+}
+);
+width = 690;
+}
+);
+unicode = 201;
+}

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <advance width="303.125"/>
+  <unicode hex="0301"/>
+  <anchor x="112" y="502" name="_top"/>
+  <anchor x="117" y="760" name="top"/>
+  <outline>
+    <component base="gravecomb" xScale="-1" xOffset="303" yOffset="1" identifier="0B842A43"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0B842A43</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

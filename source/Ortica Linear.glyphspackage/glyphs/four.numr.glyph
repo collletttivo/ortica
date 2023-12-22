@@ -1,0 +1,34 @@
+{
+export = 0;
+glyphname = four.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = foursuperior;
+}
+);
+width = 383;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+ref = foursuperior;
+}
+);
+width = 399;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+ref = foursuperior;
+}
+);
+width = 389;
+}
+);
+metricLeft = four;
+}

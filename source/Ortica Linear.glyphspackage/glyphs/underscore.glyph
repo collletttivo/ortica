@@ -1,0 +1,75 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(10,-112,l),
+(454,-112,l),
+(454,-82,l),
+(10,-82,l)
+);
+}
+);
+width = 464;
+},
+{
+annotations = (
+{
+pos = (187.832,-194.01);
+text = "underscore alto quanto emdash o quanto hyphen?";
+type = Text;
+}
+);
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,-112,l),
+(474,-112,l),
+(474,-72,l),
+(30,-72,l)
+);
+}
+);
+width = 504;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,-122,l),
+(480,-122,l),
+(480,-72,l),
+(20,-72,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(14,-116,l),
+(464,-116,l),
+(464,-78,l),
+(14,-78,l)
+);
+}
+);
+width = 477.5;
+}
+);
+unicode = 95;
+}

@@ -1,0 +1,69 @@
+{
+glyphname = tcaron;
+kernLeft = t;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (225,50);
+ref = caroncomb.alt;
+}
+);
+width = 391;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (6,128);
+ref = caroncomb;
+}
+);
+width = 394;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (256,60);
+ref = caroncomb.alt;
+}
+);
+width = 432;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (230,53);
+ref = caroncomb.alt;
+}
+);
+width = 406;
+}
+);
+unicode = 357;
+}

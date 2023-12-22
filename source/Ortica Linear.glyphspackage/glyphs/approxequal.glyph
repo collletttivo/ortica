@@ -1,0 +1,70 @@
+{
+glyphname = approxequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-70);
+ref = asciitilde;
+},
+{
+pos = (0,60);
+ref = asciitilde;
+}
+);
+width = 462;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+pos = (0,-37);
+ref = asciitilde;
+},
+{
+pos = (0,102);
+ref = asciitilde;
+}
+);
+width = 443;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+angle = -2;
+pos = (-8,-84);
+ref = asciitilde;
+},
+{
+angle = -2;
+pos = (-14,78);
+ref = asciitilde;
+}
+);
+width = 463;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+angle = -0.75;
+pos = (-3,-75);
+ref = asciitilde;
+},
+{
+alignment = -1;
+angle = -0.75;
+pos = (-5,67);
+ref = asciitilde;
+}
+);
+width = 462.375;
+}
+);
+unicode = 8776;
+}

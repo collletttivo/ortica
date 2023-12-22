@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="196"/>
+  <unicode hex="2019"/>
+  <outline>
+    <component base="comma" xOffset="-9" yOffset="664" identifier="BB03853B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quotesinglbase</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quotesinglbase</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BB03853B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

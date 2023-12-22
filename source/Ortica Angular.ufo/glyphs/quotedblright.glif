@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="441"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="quotedblbase" yOffset="632"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quotesinglbase</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quotesinglbase</string>
+    </dict>
+  </lib>
+</glyph>

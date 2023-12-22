@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="802"/>
+  <unicode hex="004E"/>
+  <anchor x="382" y="0" name="bottom"/>
+  <anchor x="391" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="252" y="705" type="line"/>
+      <point x="25" y="705" type="line"/>
+      <point x="25" y="678" type="line"/>
+      <point x="78" y="675" type="line"/>
+      <point x="121" y="635" type="line"/>
+      <point x="122" y="85" type="line"/>
+      <point x="82" y="30" type="line"/>
+      <point x="25" y="27" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="274" y="27" type="line"/>
+      <point x="215" y="30" type="line"/>
+      <point x="177" y="85" type="line"/>
+      <point x="176" y="562" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="680" y="622" type="line"/>
+      <point x="718" y="675" type="line"/>
+      <point x="777" y="678" type="line"/>
+      <point x="777" y="705" type="line"/>
+      <point x="529" y="705" type="line"/>
+      <point x="529" y="678" type="line"/>
+      <point x="590" y="675" type="line"/>
+      <point x="626" y="620" type="line"/>
+      <point x="626" y="225" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="0" type="move"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H-10</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="831.125"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="H" identifier="21E7A1BF"/>
+    <contour>
+      <point x="30" y="528" type="line"/>
+      <point x="799" y="528" type="line"/>
+      <point x="799" y="562" type="line"/>
+      <point x="30" y="562" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>21E7A1BF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+pos = (555,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 555;
+}
+);
+metricLeft = "=|greater";
+metricRight = "=|greater";
+unicode = 60;
+}

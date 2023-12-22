@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="372.875"/>
+  <unicode hex="0049"/>
+  <anchor x="190" y="0" name="bottom"/>
+  <anchor x="217" y="0" name="ogonek"/>
+  <anchor x="190" y="702" name="top"/>
+  <anchor x="29" y="702" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="238" y="640" type="line" smooth="yes"/>
+      <point x="238" y="692"/>
+      <point x="285" y="681"/>
+      <point x="340" y="683" type="curve"/>
+      <point x="340" y="702" type="line"/>
+      <point x="33" y="702" type="line"/>
+      <point x="33" y="683" type="line"/>
+      <point x="88" y="681"/>
+      <point x="135" y="692"/>
+      <point x="135" y="640" type="curve" smooth="yes"/>
+      <point x="135" y="66" type="line" smooth="yes"/>
+      <point x="135" y="14"/>
+      <point x="88" y="21"/>
+      <point x="33" y="19" type="curve"/>
+      <point x="33" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="19" type="line"/>
+      <point x="285" y="21"/>
+      <point x="238" y="14"/>
+      <point x="238" y="66" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H+10</string>
+    </dict>
+  </lib>
+</glyph>

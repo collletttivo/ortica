@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="851.875"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="196" y="0" type="line"/>
+      <point x="702" y="702" type="line"/>
+      <point x="650" y="702" type="line"/>
+      <point x="145" y="0" type="line"/>
+    </contour>
+    <component base="three.numr" identifier="BFCD812A"/>
+    <component base="four.dnom" xOffset="466" identifier="ABAF61F2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>threesuperior</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>ABAF61F2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BFCD812A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

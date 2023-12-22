@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1155"/>
+  <unicode hex="0152"/>
+  <anchor x="886" y="0" name="bottom"/>
+  <anchor x="801" y="350" name="center"/>
+  <anchor x="1124" y="10" name="ogonek"/>
+  <anchor x="886" y="705" name="top"/>
+  <anchor x="417" y="705" name="topleft"/>
+  <anchor x="1185" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1070" y="0" type="line"/>
+      <point x="1105" y="228" type="line"/>
+      <point x="1080" y="228" type="line"/>
+      <point x="1007" y="67" type="line"/>
+      <point x="947" y="40" type="line"/>
+      <point x="724" y="38" type="line"/>
+      <point x="688" y="82" type="line"/>
+      <point x="688" y="337" type="line"/>
+      <point x="899" y="336" type="line"/>
+      <point x="942" y="304" type="line"/>
+      <point x="957" y="230" type="line"/>
+      <point x="980" y="230" type="line"/>
+      <point x="980" y="487" type="line"/>
+      <point x="957" y="487" type="line"/>
+      <point x="942" y="413" type="line"/>
+      <point x="897" y="382" type="line"/>
+      <point x="897" y="381" type="line"/>
+      <point x="688" y="380" type="line"/>
+      <point x="688" y="629" type="line"/>
+      <point x="724" y="673" type="line"/>
+      <point x="927" y="671" type="line"/>
+      <point x="987" y="625" type="line"/>
+      <point x="1056" y="476" type="line"/>
+      <point x="1081" y="476" type="line"/>
+      <point x="1050" y="705" type="line"/>
+      <point x="314" y="705" type="line"/>
+      <point x="121" y="589" type="line"/>
+      <point x="50" y="353" type="line"/>
+      <point x="121" y="117" type="line"/>
+      <point x="314" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="676" type="line"/>
+      <point x="541" y="650" type="line"/>
+      <point x="541" y="55" type="line"/>
+      <point x="419" y="32" type="line"/>
+      <point x="307" y="65" type="line"/>
+      <point x="231" y="266" type="line"/>
+      <point x="231" y="467" type="line"/>
+      <point x="307" y="641" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=E</string>
+    </dict>
+  </lib>
+</glyph>

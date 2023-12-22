@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="695"/>
+  <unicode hex="0111"/>
+  <guideline x="689" y="27" angle="270"/>
+  <outline>
+    <contour>
+      <point x="689" y="625" type="line"/>
+      <point x="250" y="625" type="line"/>
+      <point x="250" y="590" type="line"/>
+      <point x="689" y="590" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

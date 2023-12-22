@@ -1,0 +1,19 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (409,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 409;
+}
+);
+metricLeft = "=|parenleft";
+metricRight = "=|parenleft";
+unicode = 41;
+}

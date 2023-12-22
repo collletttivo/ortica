@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow" format="2">
+  <advance width="583.875"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="63" y="411" type="curve"/>
+      <point x="75" y="393" type="line"/>
+      <point x="136" y="424"/>
+      <point x="216" y="484"/>
+      <point x="266" y="544" type="curve"/>
+      <point x="265" y="30" type="line"/>
+      <point x="319" y="30" type="line"/>
+      <point x="319" y="544" type="line"/>
+      <point x="368" y="484"/>
+      <point x="451" y="424"/>
+      <point x="510" y="393" type="curve"/>
+      <point x="521" y="411" type="line"/>
+      <point x="444" y="476"/>
+      <point x="367" y="565"/>
+      <point x="302" y="696" type="curve"/>
+      <point x="285" y="696" type="line"/>
+      <point x="215" y="565"/>
+      <point x="139" y="476"/>
+    </contour>
+  </outline>
+</glyph>

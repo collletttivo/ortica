@@ -1,0 +1,17 @@
+{
+glyphname = periodcentered;
+kernRight = bullet;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (9,210);
+ref = period;
+}
+);
+width = 305;
+}
+);
+unicode = 183;
+}

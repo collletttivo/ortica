@@ -1,0 +1,78 @@
+{
+glyphname = emdash;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,233,l),
+(947,233,l),
+(947,267,l),
+(0,267,l)
+);
+}
+);
+width = 947;
+},
+{
+annotations = (
+{
+pos = (1387.083,430.708);
+text = "emdash e endash fatte della stessa altezza dell'underscore, giusto?";
+type = Text;
+}
+);
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,272,l),
+(30,228,l),
+(977,228,l),
+(977,272,l)
+);
+}
+);
+width = 1007;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,223,l),
+(974,223,l),
+(974,277,l),
+(0,277,l)
+);
+}
+);
+width = 974;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,229,l),
+(957,229,l),
+(957,271,l),
+(0,271,l)
+);
+}
+);
+width = 957.125;
+}
+);
+metricLeft = "=0";
+metricRight = "=0";
+unicode = 8212;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = six.osf;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+ref = six;
+}
+);
+width = 640;
+}
+);
+}

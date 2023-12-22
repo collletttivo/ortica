@@ -1,0 +1,30 @@
+{
+glyphname = caroncomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (47,505);
+}
+);
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,751,l),
+(95,769,l),
+(125,767,l),
+(148,751,l),
+(150,716,l),
+(79,515,l),
+(42,515,l),
+(49,723,l)
+);
+}
+);
+width = 175;
+}
+);
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="638.75"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="635" y="621" type="line"/>
+      <point x="194" y="621" type="line"/>
+      <point x="194" y="594" type="line"/>
+      <point x="635" y="594" type="line"/>
+    </contour>
+    <component base="d" identifier="25761843"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>25761843</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

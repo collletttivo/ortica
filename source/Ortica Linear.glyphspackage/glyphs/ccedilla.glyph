@@ -1,0 +1,63 @@
+{
+glyphname = ccedilla;
+kernLeft = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (169,0);
+ref = cedillacomb;
+}
+);
+width = 528;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (-9,0);
+ref = cedillacomb;
+}
+);
+width = 525;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (186,0);
+ref = cedillacomb;
+}
+);
+width = 578;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (176,0);
+ref = cedillacomb;
+}
+);
+width = 547;
+}
+);
+unicode = 231;
+}

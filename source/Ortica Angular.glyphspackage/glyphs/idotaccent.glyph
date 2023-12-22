@@ -1,0 +1,19 @@
+{
+glyphname = idotaccent;
+kernRight = d;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (61,0);
+ref = dotaccentcomb;
+}
+);
+width = 357;
+}
+);
+}

@@ -1,0 +1,76 @@
+{
+glyphname = quoteright;
+kernLeft = quoteleft;
+kernRight = quoteright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-7,682);
+ref = comma;
+}
+);
+width = 172;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+width = 221;
+},
+{
+associatedMasterId = m01;
+layerId = "8CB812D6-BDFC-49B1-8CD8-BA28E0050CDB";
+name = "Sep 6 21, 12:05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(17,735,o),
+(35,760,o),
+(65,760,cs),
+(91,760,o),
+(117,740,o),
+(117,691,cs),
+(117,652,o),
+(85,591,o),
+(52,565,c),
+(45,573,l),
+(61,590,o),
+(74,607,o),
+(74,629,cs),
+(74,680,o),
+(17,661,o),
+(17,713,cs)
+);
+}
+);
+width = 132;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+pos = (-12,635);
+ref = comma;
+}
+);
+width = 234;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+pos = (-9,664);
+ref = comma;
+}
+);
+width = 196;
+}
+);
+metricLeft = quotesinglbase;
+metricRight = quotesinglbase;
+unicode = 8217;
+}

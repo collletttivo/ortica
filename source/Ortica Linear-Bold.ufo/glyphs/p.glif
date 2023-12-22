@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="694"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="242" y="394" type="line"/>
+      <point x="300" y="434"/>
+      <point x="331" y="455"/>
+      <point x="366" y="455" type="curve" smooth="yes"/>
+      <point x="445" y="455"/>
+      <point x="519" y="391"/>
+      <point x="519" y="248" type="curve" smooth="yes"/>
+      <point x="519" y="107"/>
+      <point x="439" y="31"/>
+      <point x="361" y="31" type="curve" smooth="yes"/>
+      <point x="305" y="31"/>
+      <point x="266" y="67"/>
+      <point x="242" y="91" type="curve"/>
+      <point x="136" y="59" type="line"/>
+      <point x="162" y="39"/>
+      <point x="234" y="-11"/>
+      <point x="356" y="-11" type="curve" smooth="yes"/>
+      <point x="512" y="-11"/>
+      <point x="650" y="96"/>
+      <point x="650" y="279" type="curve" smooth="yes"/>
+      <point x="650" y="448"/>
+      <point x="523" y="517"/>
+      <point x="406" y="517" type="curve" smooth="yes"/>
+      <point x="346" y="517"/>
+      <point x="269" y="462"/>
+      <point x="242" y="445" type="curve"/>
+    </contour>
+    <contour>
+      <point x="27" y="439" type="line"/>
+      <point x="55" y="446"/>
+      <point x="74" y="451"/>
+      <point x="87" y="451" type="curve" smooth="yes"/>
+      <point x="109" y="451"/>
+      <point x="114" y="438"/>
+      <point x="114" y="402" type="curve" smooth="yes"/>
+      <point x="114" y="-162" type="line" smooth="yes"/>
+      <point x="114" y="-210"/>
+      <point x="72" y="-211"/>
+      <point x="27" y="-213" type="curve"/>
+      <point x="27" y="-240" type="line"/>
+      <point x="391" y="-240" type="line"/>
+      <point x="391" y="-213" type="line"/>
+      <point x="296" y="-211"/>
+      <point x="250" y="-210"/>
+      <point x="250" y="-162" type="curve" smooth="yes"/>
+      <point x="250" y="518" type="line"/>
+      <point x="27" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n-3</string>
+    </dict>
+  </lib>
+</glyph>

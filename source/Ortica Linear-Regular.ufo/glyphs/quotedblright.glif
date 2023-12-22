@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="347"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="quoteright" xOffset="-3" identifier="7E4EF13A"/>
+    <component base="quoteright" xOffset="148" identifier="20B78DA9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quotesinglbase</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quotesinglbase</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>20B78DA9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7E4EF13A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="693"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="235" y="-240" type="line"/>
+      <point x="235" y="3" type="line"/>
+      <point x="309" y="-4" type="line"/>
+      <point x="439" y="86" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="673" y="0" type="line"/>
+      <point x="673" y="22" type="line"/>
+      <point x="605" y="25" type="line"/>
+      <point x="576" y="65" type="line"/>
+      <point x="576" y="516" type="line"/>
+      <point x="357" y="470" type="line"/>
+      <point x="357" y="448" type="line"/>
+      <point x="422" y="443" type="line"/>
+      <point x="439" y="403" type="line"/>
+      <point x="439" y="131" type="line"/>
+      <point x="325" y="72" type="line"/>
+      <point x="235" y="126" type="line"/>
+      <point x="235" y="516" type="line"/>
+      <point x="16" y="470" type="line"/>
+      <point x="16" y="448" type="line"/>
+      <point x="81" y="443" type="line"/>
+      <point x="98" y="403" type="line"/>
+      <point x="98" y="-240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

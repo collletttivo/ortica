@@ -1,0 +1,26 @@
+{
+glyphname = bullet;
+kernRight = bullet;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,127,l),
+(129,172,l),
+(100,285,l),
+(155,380,l),
+(272,403,l),
+(368,358,l),
+(393,249,l),
+(339,150,l)
+);
+}
+);
+width = 493;
+}
+);
+unicode = 8226;
+}

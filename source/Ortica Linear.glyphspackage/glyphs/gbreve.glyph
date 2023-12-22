@@ -1,0 +1,47 @@
+{
+glyphname = gbreve;
+kernLeft = g;
+kernRight = g;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (93,12);
+ref = brevecomb;
+}
+);
+width = 566;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (136,0);
+ref = brevecomb;
+}
+);
+width = 640;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (109,7);
+ref = brevecomb;
+}
+);
+width = 594;
+}
+);
+unicode = 287;
+}

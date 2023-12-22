@@ -1,0 +1,26 @@
+{
+glyphname = Tbar;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(132,440,l),
+(132,391,l),
+(564,391,l),
+(564,440,l)
+);
+},
+{
+ref = T;
+}
+);
+width = 696;
+}
+);
+unicode = 358;
+}

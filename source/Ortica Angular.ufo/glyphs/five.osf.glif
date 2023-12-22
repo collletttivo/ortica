@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.osf" format="2">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="75" y="7" type="line"/>
+      <point x="40" y="-165" type="line"/>
+      <point x="236" y="-240" type="line"/>
+      <point x="451" y="-194" type="line"/>
+      <point x="556" y="-23" type="line"/>
+      <point x="519" y="172" type="line"/>
+      <point x="326" y="264" type="line"/>
+      <point x="116" y="183" type="line"/>
+      <point x="151" y="400" type="line"/>
+      <point x="499" y="400" type="line"/>
+      <point x="499" y="505" type="line"/>
+      <point x="121" y="505" type="line"/>
+      <point x="65" y="131" type="line"/>
+      <point x="97" y="116" type="line"/>
+      <point x="182" y="186" type="line"/>
+      <point x="313" y="186" type="line"/>
+      <point x="417" y="58" type="line"/>
+      <point x="404" y="-108" type="line"/>
+      <point x="328" y="-189" type="line"/>
+      <point x="197" y="-186" type="line"/>
+      <point x="128" y="-125" type="line"/>
+      <point x="101" y="7" type="line"/>
+    </contour>
+  </outline>
+</glyph>

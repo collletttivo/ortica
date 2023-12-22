@@ -1,0 +1,20 @@
+{
+glyphname = lessequal;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+pos = (530,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 530;
+}
+);
+metricLeft = "=|greaterequal";
+metricRight = "=|greaterequal";
+unicode = 8804;
+}

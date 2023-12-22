@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="805.625"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="771" y="-126" type="curve"/>
+      <point x="771" y="-107" type="line"/>
+      <point x="639" y="-109"/>
+      <point x="546" y="-80"/>
+      <point x="464" y="13" type="curve"/>
+      <point x="359" y="-2" type="line"/>
+      <point x="443" y="-92"/>
+      <point x="532" y="-136"/>
+    </contour>
+    <component base="O" identifier="590FF826"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=O</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>590FF826</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

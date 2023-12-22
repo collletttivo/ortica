@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="243"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="period" xOffset="1" yOffset="3" identifier="9AEA60D8"/>
+    <component base="period" xOffset="1" yOffset="400" identifier="6D85F13A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6D85F13A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9AEA60D8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

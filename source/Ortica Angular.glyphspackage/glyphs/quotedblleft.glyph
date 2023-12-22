@@ -1,0 +1,21 @@
+{
+glyphname = quotedblleft;
+kernLeft = quoteleft;
+kernRight = quoteright;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+angle = 180;
+pos = (441,599);
+ref = quotedblbase;
+}
+);
+width = 441;
+}
+);
+metricLeft = "=|quotesinglbase";
+metricRight = "=|quotesinglbase";
+unicode = 8220;
+}

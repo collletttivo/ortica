@@ -1,0 +1,23 @@
+{
+glyphname = semicolon;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (0,387);
+ref = period;
+},
+{
+ref = comma;
+}
+);
+width = 295;
+}
+);
+metricLeft = colon;
+metricRight = "=|";
+unicode = 59;
+}

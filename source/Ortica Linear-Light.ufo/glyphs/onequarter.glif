@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="806"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="one.numr"/>
+    <contour>
+      <point x="171" y="0" type="line"/>
+      <point x="670" y="700" type="line"/>
+      <point x="629" y="700" type="line"/>
+      <point x="130" y="0" type="line"/>
+    </contour>
+    <component base="four.dnom" xOffset="423"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>onesuperior</string>
+    </dict>
+  </lib>
+</glyph>

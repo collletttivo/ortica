@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="465"/>
+  <unicode hex="0308"/>
+  <anchor x="238" y="505" name="_top"/>
+  <anchor x="238" y="728" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" yOffset="-2"/>
+    <component base="dotaccentcomb" xOffset="237" yOffset="-2" identifier="1A028C73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1A028C73</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southWestArrow" format="2">
+  <advance width="577.125"/>
+  <unicode hex="2199"/>
+  <outline>
+    <component base="upArrow" xScale="-0.7071" xyScale="0.7071" yScale="-0.7071" yxScale="-0.7071" xOffset="745" yOffset="406" identifier="4329E842"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4329E842</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

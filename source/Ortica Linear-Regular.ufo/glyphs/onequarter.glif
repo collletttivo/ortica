@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="810.5"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="one.numr" identifier="52F66E2B"/>
+    <contour>
+      <point x="182" y="0" type="line"/>
+      <point x="687" y="702" type="line"/>
+      <point x="636" y="702" type="line"/>
+      <point x="130" y="0" type="line"/>
+    </contour>
+    <component base="four.dnom" xOffset="425" identifier="377DF731"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>onesuperior</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>377DF731</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>52F66E2B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

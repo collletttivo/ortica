@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="659.125"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="L" identifier="0A693B9F"/>
+    <component base="caroncomb.alt" xOffset="372" yOffset="-58" identifier="5E7BA255"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0A693B9F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5E7BA255</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

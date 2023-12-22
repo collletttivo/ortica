@@ -1,0 +1,40 @@
+{
+glyphname = plusminus;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,415,l),
+(60,355,l),
+(535,355,l),
+(535,415,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(333,545,l),
+(272,545,l),
+(272,224,l),
+(333,224,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(70,135,l),
+(70,72,l),
+(545,72,l),
+(545,135,l)
+);
+}
+);
+width = 605;
+}
+);
+unicode = 177;
+}

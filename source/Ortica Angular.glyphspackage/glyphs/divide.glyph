@@ -1,0 +1,26 @@
+{
+glyphname = divide;
+kernLeft = math;
+kernRight = math;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+ref = minus;
+},
+{
+pos = (152,460);
+ref = period;
+},
+{
+pos = (152,74);
+ref = period;
+}
+);
+width = 605;
+}
+);
+unicode = 247;
+}

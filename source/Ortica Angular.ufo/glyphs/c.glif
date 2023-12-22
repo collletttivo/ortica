@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="583"/>
+  <unicode hex="0063"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="287" y="505" name="top"/>
+  <outline>
+    <contour>
+      <point x="542" y="407" type="line"/>
+      <point x="495" y="477" type="line"/>
+      <point x="367" y="518" type="line"/>
+      <point x="154" y="480" type="line"/>
+      <point x="44" y="308" type="line"/>
+      <point x="94" y="82" type="line"/>
+      <point x="250" y="-14" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="547" y="152" type="line"/>
+      <point x="524" y="169" type="line"/>
+      <point x="392" y="65" type="line"/>
+      <point x="254" y="104" type="line"/>
+      <point x="200" y="260" type="line"/>
+      <point x="211" y="432" type="line"/>
+      <point x="285" y="476" type="line"/>
+      <point x="399" y="449" type="line"/>
+      <point x="460" y="293" type="line"/>
+      <point x="475" y="293" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=o-8</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=o-10</string>
+    </dict>
+  </lib>
+</glyph>

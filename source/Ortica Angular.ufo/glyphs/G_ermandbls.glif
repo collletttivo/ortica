@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls" format="2">
+  <advance width="789"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="25" y="27" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="705" type="line"/>
+      <point x="25" y="705" type="line"/>
+      <point x="25" y="678" type="line"/>
+      <point x="79" y="675" type="line"/>
+      <point x="122" y="635" type="line"/>
+      <point x="122" y="70" type="line"/>
+      <point x="79" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="352" type="line"/>
+      <point x="481" y="372" type="line"/>
+      <point x="577" y="337" type="line"/>
+      <point x="636" y="253" type="line"/>
+      <point x="636" y="118" type="line"/>
+      <point x="586" y="46" type="line"/>
+      <point x="483" y="39" type="line"/>
+      <point x="416" y="96" type="line"/>
+      <point x="391" y="224" type="line"/>
+      <point x="367" y="224" type="line"/>
+      <point x="326" y="46" type="line"/>
+      <point x="514" y="-15" type="line"/>
+      <point x="700" y="46" type="line"/>
+      <point x="767" y="203" type="line"/>
+      <point x="706" y="356" type="line"/>
+      <point x="571" y="412" type="line"/>
+      <point x="483" y="404" type="line"/>
+      <point x="711" y="678" type="line"/>
+      <point x="711" y="705" type="line"/>
+      <point x="161" y="705" type="line"/>
+      <point x="161" y="674" type="line"/>
+      <point x="575" y="674" type="line"/>
+      <point x="364" y="422" type="line"/>
+      <point x="364" y="353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

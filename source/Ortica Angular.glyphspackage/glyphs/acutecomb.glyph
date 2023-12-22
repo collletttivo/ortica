@@ -1,0 +1,17 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (330,0);
+ref = gravecomb;
+scale = (-1,1);
+}
+);
+width = 330;
+}
+);
+unicode = 769;
+}

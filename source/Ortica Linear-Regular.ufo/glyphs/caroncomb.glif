@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <advance width="357.25"/>
+  <unicode hex="030C"/>
+  <anchor x="188" y="502" name="_top"/>
+  <anchor x="188" y="760" name="top"/>
+  <outline>
+    <component base="circumflexcomb" yScale="-1" yOffset="1339" identifier="CBD548D2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CBD548D2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

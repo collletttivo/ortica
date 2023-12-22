@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="627"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="236" y="70" type="line"/>
+      <point x="213" y="29" type="line"/>
+      <point x="121" y="46" type="line"/>
+      <point x="91" y="188" type="line"/>
+      <point x="69" y="188" type="line"/>
+      <point x="26" y="57" type="line"/>
+      <point x="175" y="-11" type="line"/>
+      <point x="327" y="24" type="line"/>
+      <point x="373" y="132" type="line"/>
+      <point x="373" y="677" type="line"/>
+      <point x="415" y="730" type="line"/>
+      <point x="497" y="723" type="line"/>
+      <point x="547" y="551" type="line"/>
+      <point x="569" y="551" type="line"/>
+      <point x="612" y="702" type="line"/>
+      <point x="463" y="770" type="line"/>
+      <point x="311" y="735" type="line"/>
+      <point x="236" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="476" type="line"/>
+      <point x="141" y="424" type="line"/>
+      <point x="497" y="424" type="line"/>
+      <point x="497" y="476" type="line"/>
+    </contour>
+  </outline>
+</glyph>

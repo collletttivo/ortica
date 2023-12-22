@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="396.375"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="30" y="362" type="line"/>
+      <point x="30" y="336" type="line"/>
+      <point x="354" y="336" type="line"/>
+      <point x="354" y="362" type="line"/>
+    </contour>
+    <component base="t" identifier="7B862278"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7B862278</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

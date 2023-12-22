@@ -1,0 +1,35 @@
+{
+glyphname = oe;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (408,0);
+},
+{
+name = top;
+pos = (408,500);
+}
+);
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (440,0);
+ref = e;
+}
+);
+width = 1034;
+}
+);
+metricLeft = "=o";
+metricRight = "=e";
+unicode = 339;
+}

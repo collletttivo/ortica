@@ -1,0 +1,55 @@
+{
+glyphname = questiondown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (462,500);
+ref = question;
+}
+);
+width = 462;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+angle = 180;
+pos = (494,703);
+ref = question;
+}
+);
+width = 494;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+angle = 180;
+pos = (549,506);
+ref = question;
+}
+);
+width = 549;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (495,504);
+ref = question;
+}
+);
+width = 495;
+}
+);
+metricLeft = "=|question";
+metricRight = "=|question";
+unicode = 191;
+}

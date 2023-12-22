@@ -1,0 +1,65 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (357,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 357;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(19,731,l),
+(118,590,l),
+(187,298,l),
+(118,-25,l),
+(15,-211,l),
+(33,-230,l),
+(229,-17,l),
+(304,272,l),
+(223,579,l),
+(37,750,l)
+);
+}
+);
+width = 314;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+pos = (394,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 394;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+pos = (371,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 370.875;
+}
+);
+metricLeft = "=|parenleft";
+metricRight = "=|parenleft";
+unicode = 41;
+}

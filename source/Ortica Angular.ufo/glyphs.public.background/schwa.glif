@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="409" y="211" type="line"/>
+      <point x="41" y="211" type="line"/>
+      <point x="79" y="74" type="line"/>
+      <point x="228" y="-13" type="line"/>
+      <point x="442" y="24" type="line"/>
+      <point x="552" y="196" type="line"/>
+      <point x="510" y="410" type="line"/>
+      <point x="346" y="517" type="line"/>
+      <point x="145" y="499" type="line"/>
+      <point x="42" y="355" type="line"/>
+      <point x="58" y="340" type="line"/>
+      <point x="210" y="441" type="line"/>
+      <point x="339" y="400" type="line"/>
+      <point x="413" y="244" type="line"/>
+      <point x="388" y="72" type="line"/>
+      <point x="315" y="29" type="line"/>
+      <point x="228" y="49" type="line"/>
+      <point x="175" y="126" type="line"/>
+      <point x="172" y="177" type="line"/>
+      <point x="409" y="176" type="line"/>
+    </contour>
+  </outline>
+</glyph>

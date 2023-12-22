@@ -1,0 +1,41 @@
+{
+glyphname = Eng;
+kernLeft = H;
+kernRight = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (391,0);
+},
+{
+name = top;
+pos = (400,705);
+}
+);
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(592,-96,l),
+(501,-153,l),
+(514,-183,l),
+(623,-146,l),
+(680,-67,l),
+(680,32,l),
+(605,32,l),
+(611,-37,l)
+);
+},
+{
+ref = N;
+}
+);
+width = 792;
+}
+);
+metricLeft = N;
+unicode = 330;
+}

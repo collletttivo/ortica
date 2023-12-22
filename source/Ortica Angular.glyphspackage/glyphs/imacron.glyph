@@ -1,0 +1,20 @@
+{
+glyphname = imacron;
+kernLeft = idieresis;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-13,-5);
+ref = macroncomb;
+}
+);
+width = 357;
+}
+);
+unicode = 299;
+}

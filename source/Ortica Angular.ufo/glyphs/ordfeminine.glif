@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="345"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="196" y="451" type="line"/>
+      <point x="196" y="689" type="line"/>
+      <point x="167" y="738" type="line"/>
+      <point x="95" y="728" type="line"/>
+      <point x="69" y="630" type="line"/>
+      <point x="46" y="630" type="line"/>
+      <point x="11" y="723" type="line"/>
+      <point x="121" y="773" type="line"/>
+      <point x="238" y="757" type="line"/>
+      <point x="282" y="685" type="line"/>
+      <point x="282" y="498" type="line"/>
+      <point x="302" y="476" type="line"/>
+      <point x="345" y="473" type="line"/>
+      <point x="345" y="451" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="531" type="line"/>
+      <point x="201" y="505" type="line"/>
+      <point x="154" y="453" type="line"/>
+      <point x="50" y="447" type="line"/>
+      <point x="0" y="522" type="line"/>
+      <point x="34" y="592" type="line"/>
+      <point x="203" y="630" type="line"/>
+      <point x="203" y="609" type="line"/>
+      <point x="92" y="564" type="line"/>
+      <point x="92" y="508" type="line"/>
+      <point x="132" y="488" type="line"/>
+    </contour>
+  </outline>
+</glyph>

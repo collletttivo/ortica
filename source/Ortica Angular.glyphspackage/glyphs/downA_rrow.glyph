@@ -1,0 +1,17 @@
+{
+glyphname = downArrow;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+angle = -45;
+pos = (-169,318);
+ref = southEastArrow;
+}
+);
+width = 594;
+}
+);
+unicode = 8595;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = northWestArrow;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+angle = -45;
+pos = (-236,376);
+ref = leftArrow;
+}
+);
+width = 596;
+}
+);
+unicode = 8598;
+}

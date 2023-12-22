@@ -1,0 +1,57 @@
+{
+glyphname = tilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 362;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+pos = (-10,0);
+ref = tildecomb;
+}
+);
+width = 382;
+},
+{
+associatedMasterId = m01;
+layerId = "F6F059E9-97F0-42CB-AACC-E821353C8BD5";
+name = "Sep 7 21, 11:45";
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 418;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+}
+);
+width = 383;
+}
+);
+unicode = 732;
+}

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="281"/>
+  <unicode hex="012F"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="ogonekcomb" xOffset="36"/>
+    <contour>
+      <point x="145" y="663" type="curve" smooth="yes"/>
+      <point x="115" y="663"/>
+      <point x="91" y="688"/>
+      <point x="91" y="717" type="curve" smooth="yes"/>
+      <point x="91" y="743"/>
+      <point x="112" y="770"/>
+      <point x="145" y="770" type="curve" smooth="yes"/>
+      <point x="174" y="770"/>
+      <point x="198" y="746"/>
+      <point x="198" y="717" type="curve" smooth="yes"/>
+      <point x="198" y="687"/>
+      <point x="175" y="663"/>
+    </contour>
+  </outline>
+</glyph>

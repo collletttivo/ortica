@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="816"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="fraction" xOffset="117" identifier="BE2CE541"/>
+    <component base="onesuperior" yOffset="12" identifier="3467C65A"/>
+    <component base="foursuperior" xOffset="391"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>onesuperior</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3467C65A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BE2CE541</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <advance width="548"/>
+  <unicode hex="030B"/>
+  <anchor x="194" y="505" name="_top"/>
+  <anchor x="284" y="768" name="top"/>
+  <outline>
+    <component base="acute" identifier="9A2C130A"/>
+    <component base="acutecomb" xOffset="218" yOffset="-1" identifier="2E667DAD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2E667DAD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9A2C130A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

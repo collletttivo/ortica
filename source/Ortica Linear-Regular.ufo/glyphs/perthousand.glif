@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1045"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="percent" identifier="51D3A810"/>
+    <contour>
+      <point x="1010" y="150" type="curve" smooth="yes"/>
+      <point x="1010" y="74"/>
+      <point x="952" y="-4"/>
+      <point x="873" y="-4" type="curve" smooth="yes"/>
+      <point x="795" y="-4"/>
+      <point x="737" y="76"/>
+      <point x="737" y="150" type="curve" smooth="yes"/>
+      <point x="737" y="224"/>
+      <point x="795" y="305"/>
+      <point x="873" y="305" type="curve" smooth="yes"/>
+      <point x="952" y="305"/>
+      <point x="1010" y="222"/>
+    </contour>
+    <contour>
+      <point x="873" y="271" type="curve" smooth="yes"/>
+      <point x="827" y="271"/>
+      <point x="798" y="220"/>
+      <point x="798" y="150" type="curve" smooth="yes"/>
+      <point x="798" y="87"/>
+      <point x="827" y="29"/>
+      <point x="873" y="29" type="curve" smooth="yes"/>
+      <point x="922" y="29"/>
+      <point x="950" y="78"/>
+      <point x="950" y="150" type="curve" smooth="yes"/>
+      <point x="950" y="213"/>
+      <point x="922" y="271"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>51D3A810</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

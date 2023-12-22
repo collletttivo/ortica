@@ -1,0 +1,28 @@
+{
+glyphname = ellipsis;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+pos = (0,3);
+ref = period;
+},
+{
+pos = (345,-1);
+ref = period;
+},
+{
+pos = (670,-1);
+ref = period;
+}
+);
+width = 957;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8230;
+}

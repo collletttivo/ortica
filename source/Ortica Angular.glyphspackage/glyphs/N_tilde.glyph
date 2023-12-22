@@ -1,0 +1,21 @@
+{
+glyphname = Ntilde;
+kernLeft = H;
+kernRight = N;
+layers = (
+{
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (182,200);
+ref = tildecomb;
+}
+);
+width = 802;
+}
+);
+unicode = 209;
+}

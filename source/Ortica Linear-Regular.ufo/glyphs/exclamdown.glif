@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="291"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" yScale="-1" xOffset="30" yOffset="503" identifier="71DCC623"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|exclam</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|exclam</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>71DCC623</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

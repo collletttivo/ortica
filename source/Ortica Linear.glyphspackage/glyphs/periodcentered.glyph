@@ -1,0 +1,50 @@
+{
+glyphname = periodcentered;
+kernRight = bullet;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (15,226);
+ref = period;
+}
+);
+width = 243;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+pos = (0,220);
+ref = period;
+}
+);
+width = 201;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+pos = (9,204);
+ref = period;
+}
+);
+width = 300;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+pos = (13,218);
+ref = period;
+}
+);
+width = 264.375;
+}
+);
+unicode = 183;
+}

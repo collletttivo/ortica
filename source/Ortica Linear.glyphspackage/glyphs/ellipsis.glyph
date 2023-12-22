@@ -1,0 +1,84 @@
+{
+glyphname = ellipsis;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (240,0);
+ref = period;
+},
+{
+pos = (480,0);
+ref = period;
+}
+);
+width = 693;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+pos = (0,3);
+ref = period;
+},
+{
+pos = (245,-1);
+ref = period;
+},
+{
+pos = (479,-1);
+ref = period;
+}
+);
+width = 680;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+pos = (339,0);
+ref = period;
+},
+{
+ref = period;
+},
+{
+pos = (667,0);
+ref = period;
+}
+);
+width = 949;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+pos = (285,0);
+ref = period;
+},
+{
+alignment = -1;
+ref = period;
+},
+{
+alignment = -1;
+pos = (556,0);
+ref = period;
+}
+);
+width = 797;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8230;
+}

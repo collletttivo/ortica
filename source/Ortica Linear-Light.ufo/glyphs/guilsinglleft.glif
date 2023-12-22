@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="366"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="106" y="254" type="curve"/>
+      <point x="170" y="314"/>
+      <point x="266" y="424"/>
+      <point x="306" y="495" type="curve"/>
+      <point x="292" y="505" type="line"/>
+      <point x="206" y="416"/>
+      <point x="115" y="332"/>
+      <point x="0" y="257" type="curve"/>
+      <point x="0" y="244" type="line"/>
+      <point x="115" y="173"/>
+      <point x="206" y="84"/>
+      <point x="292" y="-5" type="curve"/>
+      <point x="306" y="7" type="line"/>
+      <point x="266" y="79"/>
+      <point x="170" y="195"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=0</string>
+    </dict>
+  </lib>
+</glyph>

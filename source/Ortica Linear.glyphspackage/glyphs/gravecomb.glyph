@@ -1,0 +1,111 @@
+{
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (158,500);
+},
+{
+name = top;
+pos = (143,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,685,l),
+(79,734,l),
+(247,576,l),
+(234,561,l)
+);
+}
+);
+width = 287;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (266,500);
+},
+{
+name = top;
+pos = (266,756);
+}
+);
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,684,l),
+(145,712,l),
+(160,742,l),
+(186,756,l),
+(205,749,l),
+(371,579,l),
+(353,560,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (171,505);
+},
+{
+name = top;
+pos = (171,760);
+}
+);
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,691,l),
+(100,768,l),
+(290,588,l),
+(268,562,l)
+);
+}
+);
+width = 330;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (160,502);
+},
+{
+name = top;
+pos = (154,760);
+}
+);
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,687,l),
+(87,747,l),
+(263,581,l),
+(247,561,l)
+);
+}
+);
+width = 303.125;
+}
+);
+unicode = 768;
+}

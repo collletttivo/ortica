@@ -1,0 +1,45 @@
+{
+glyphname = Gdotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (305,213);
+ref = dotaccentcomb;
+}
+);
+width = 733;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (308,200);
+ref = dotaccentcomb;
+}
+);
+width = 787;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (306,208);
+ref = dotaccentcomb;
+}
+);
+width = 753;
+}
+);
+unicode = 288;
+}

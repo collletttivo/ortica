@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="901"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="22" y="686" type="line"/>
+      <point x="96" y="683"/>
+      <point x="123" y="688"/>
+      <point x="123" y="645" type="curve" smooth="yes"/>
+      <point x="124" y="54" type="line" smooth="yes"/>
+      <point x="124" y="12"/>
+      <point x="76" y="16"/>
+      <point x="22" y="14" type="curve"/>
+      <point x="22" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="257" y="14" type="line"/>
+      <point x="202" y="16"/>
+      <point x="162" y="12"/>
+      <point x="162" y="54" type="curve" smooth="yes"/>
+      <point x="162" y="559" type="line"/>
+      <point x="156" y="625" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="709" y="625" type="line"/>
+      <point x="705" y="559" type="line"/>
+      <point x="705" y="54" type="line" smooth="yes"/>
+      <point x="705" y="8"/>
+      <point x="653" y="16"/>
+      <point x="598" y="14" type="curve"/>
+      <point x="598" y="0" type="line"/>
+      <point x="879" y="0" type="line"/>
+      <point x="879" y="14" type="line"/>
+      <point x="822" y="16"/>
+      <point x="777" y="8"/>
+      <point x="777" y="54" type="curve" smooth="yes"/>
+      <point x="777" y="645" type="line" smooth="yes"/>
+      <point x="777" y="688"/>
+      <point x="805" y="683"/>
+      <point x="879" y="686" type="curve"/>
+      <point x="879" y="700" type="line"/>
+      <point x="707" y="700" type="line"/>
+      <point x="461" y="99" type="line"/>
+      <point x="198" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H</string>
+    </dict>
+  </lib>
+</glyph>

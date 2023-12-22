@@ -1,0 +1,53 @@
+{
+glyphname = downArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-30,720);
+ref = upArrow;
+scale = (1,-1);
+}
+);
+width = 510;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+angle = -45;
+pos = (-158,318);
+ref = southEastArrow;
+}
+);
+width = 600;
+},
+{
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+pos = (-10,735);
+ref = upArrow;
+scale = (1,-1);
+}
+);
+width = 587;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+alignment = -1;
+pos = (-23,726);
+ref = upArrow;
+scale = (1,-1);
+}
+);
+width = 538.875;
+}
+);
+unicode = 8595;
+}

@@ -1,0 +1,76 @@
+{
+export = 0;
+glyphname = one.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-323);
+ref = onesuperior;
+}
+);
+width = 283;
+},
+{
+associatedMasterId = m01;
+layerId = "4EF47A43-EA9F-416F-884D-AC541148DC09";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,688,l),
+(45,662,l),
+(45,639,l),
+(49,639,l),
+(106,659,l),
+(106,394,l),
+(179,394,l),
+(179,700,l),
+(141,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(74,417,l),
+(44,416,l),
+(44,394,l),
+(240,394,l),
+(240,417,l),
+(209,417,l),
+(179,438,l),
+(106,438,l)
+);
+}
+);
+width = 257;
+},
+{
+guides = (
+{
+pos = (287,323);
+}
+);
+layerId = "2CB5E1B6-8A79-4562-81B9-46C99CEA2FC9";
+shapes = (
+{
+pos = (0,-323);
+ref = onesuperior;
+}
+);
+width = 317;
+},
+{
+layerId = "1881FB1F-FF0F-4B67-AF41-4B555E01DE13";
+shapes = (
+{
+pos = (0,-323);
+ref = onesuperior;
+}
+);
+width = 296;
+}
+);
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="2">
+  <advance width="593"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="0" y="267" type="line"/>
+      <point x="0" y="233" type="line"/>
+      <point x="593" y="233" type="line"/>
+      <point x="593" y="267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=0</string>
+    </dict>
+  </lib>
+</glyph>

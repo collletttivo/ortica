@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="404"/>
+  <outline>
+    <contour>
+      <point x="80" y="274" type="curve"/>
+      <point x="56" y="281" type="line"/>
+      <point x="78" y="351"/>
+      <point x="122" y="390"/>
+      <point x="189" y="390" type="curve" smooth="yes"/>
+      <point x="256" y="390"/>
+      <point x="310" y="342"/>
+      <point x="310" y="278" type="curve" smooth="yes"/>
+      <point x="310" y="232"/>
+      <point x="294" y="195"/>
+      <point x="227" y="139" type="curve" smooth="yes"/>
+      <point x="106" y="39" type="line"/>
+      <point x="241" y="39" type="line" smooth="yes"/>
+      <point x="281" y="39"/>
+      <point x="292" y="55"/>
+      <point x="306" y="114" type="curve"/>
+      <point x="326" y="114" type="line"/>
+      <point x="306" y="1" type="line"/>
+      <point x="50" y="1" type="line"/>
+      <point x="50" y="27" type="line"/>
+      <point x="171" y="141" type="line" smooth="yes"/>
+      <point x="228" y="194"/>
+      <point x="253" y="235"/>
+      <point x="253" y="275" type="curve" smooth="yes"/>
+      <point x="253" y="327"/>
+      <point x="220" y="355"/>
+      <point x="180" y="355" type="curve" smooth="yes"/>
+      <point x="143" y="355"/>
+      <point x="109" y="337"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>two</string>
+    </dict>
+  </lib>
+</glyph>

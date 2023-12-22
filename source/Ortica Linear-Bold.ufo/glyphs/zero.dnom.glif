@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dnom" format="2">
+  <advance width="474"/>
+  <outline>
+    <contour>
+      <point x="409" y="197" type="curve" smooth="yes"/>
+      <point x="409" y="74"/>
+      <point x="324" y="-3"/>
+      <point x="237" y="-3" type="curve" smooth="yes"/>
+      <point x="149" y="-3"/>
+      <point x="65" y="74"/>
+      <point x="65" y="197" type="curve" smooth="yes"/>
+      <point x="65" y="319"/>
+      <point x="149" y="397"/>
+      <point x="237" y="397" type="curve" smooth="yes"/>
+      <point x="324" y="397"/>
+      <point x="409" y="319"/>
+    </contour>
+    <contour>
+      <point x="237" y="361" type="curve" smooth="yes"/>
+      <point x="174" y="361"/>
+      <point x="156" y="279"/>
+      <point x="156" y="197" type="curve" smooth="yes"/>
+      <point x="156" y="115"/>
+      <point x="174" y="33"/>
+      <point x="237" y="33" type="curve" smooth="yes"/>
+      <point x="299" y="33"/>
+      <point x="317" y="115"/>
+      <point x="317" y="197" type="curve" smooth="yes"/>
+      <point x="317" y="279"/>
+      <point x="299" y="361"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero</string>
+    </dict>
+  </lib>
+</glyph>

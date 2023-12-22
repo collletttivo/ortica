@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northWestArrow" format="2">
+  <advance width="574.5"/>
+  <unicode hex="2196"/>
+  <outline>
+    <component base="upArrow" xScale="0.7071" xyScale="0.7071" yScale="0.7071" yxScale="-0.7071" xOffset="330" yOffset="-100" identifier="92B21207"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>92B21207</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

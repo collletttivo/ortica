@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow" format="2">
+  <advance width="745.625"/>
+  <unicode hex="2192"/>
+  <outline>
+    <component base="upArrow" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="10" yOffset="648" identifier="AA68B18E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AA68B18E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

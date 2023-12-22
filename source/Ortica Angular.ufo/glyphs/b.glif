@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b" format="2">
+  <advance width="683"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="235" y="770" type="line"/>
+      <point x="235" y="440" type="line"/>
+      <point x="426" y="518" type="line"/>
+      <point x="599" y="429" type="line"/>
+      <point x="639" y="259" type="line"/>
+      <point x="576" y="87" type="line"/>
+      <point x="374" y="-14" type="line"/>
+      <point x="235" y="-4" type="line"/>
+      <point x="98" y="50" type="line"/>
+      <point x="98" y="657" type="line"/>
+      <point x="81" y="700" type="line"/>
+      <point x="5" y="692" type="line"/>
+      <point x="5" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="108" type="line"/>
+      <point x="317" y="43" type="line"/>
+      <point x="443" y="58" type="line"/>
+      <point x="486" y="138" type="line"/>
+      <point x="480" y="335" type="line"/>
+      <point x="379" y="443" type="line"/>
+      <point x="235" y="401" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=h-20</string>
+    </dict>
+  </lib>
+</glyph>
